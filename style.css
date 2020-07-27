@@ -1,0 +1,29 @@
+@media (min-width 320px){
+  .page__title {
+    font-size: 10px;
+}
+
+@media (min-width 481px) {
+  .page__title {
+    font-size: 20px;
+}
+
+@media (min-width 641px) {
+  .page__title {
+    font-size: 30px;
+}
+
+@media (min-width 961px) {
+  .page__title {
+    font-size: 40px
+}
+
+@media (min-width 1025px) {
+  .page__title {
+    font-size: 50px
+}
+
+@media (min-width 1281px) {
+  .page__title {
+    font-size: 60px
+}
