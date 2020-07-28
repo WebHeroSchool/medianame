@@ -34,12 +34,11 @@
   }
 }
 
-@media all and (max-width: 500px) {
-
 #menu__toggle {
   opacity: 0;
 }
 
+@media all and (max-width: 500px) {
 .menu__button {
   display: flex;
   align-items: left;
